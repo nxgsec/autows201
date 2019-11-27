@@ -1,6 +1,12 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*.tfstate
+*.tfstate.backup
+*.retry
+*creds*
+*password*
+
 *$py.class
 
 # C extensions
